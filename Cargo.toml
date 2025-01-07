@@ -1,7 +1,10 @@
 [package]
 name = "cmpdt"
+description = "compare directory trees"
 version = "0.1.0-rc1"
 edition = "2021"
+license = "Unlicense"
+
 
 [dependencies]
 sha2 = "0.10"
